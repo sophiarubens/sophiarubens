@@ -1,5 +1,5 @@
-- cosmology, plasma, particles, AGNs
-- C, Python, MATLAB, Fortran, Mathematica
+- interested in // cosmology, plasma, particles, AGNs
+- currently using // C, Python, MATLAB, Fortran, Mathematica
 
 <!---
 sophiarubens/sophiarubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
