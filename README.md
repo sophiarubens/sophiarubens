@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sophiarubens
-- 👀 I’m interested in cosmology, plasma, and particles.
-- 🌱 I’m currently learning Fortran and Python.
-- 📫 You can reach me via gmail.
+- cosmology, plasma, particles, AGNs
+- C, Python, MATLAB, Fortran, Mathematica
 
 <!---
 sophiarubens/sophiarubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
