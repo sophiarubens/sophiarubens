@@ -1,6 +1,7 @@
-interested in // cosmology, AGNs, particles
+working on: 21-cm intensity mapping, CHORD systematics
 
-currently using // FORTRAN, Python, MATLAB, Mathematica, C
+these days: Python, Mathematica
+historically: C, Fortran, MATLAB
 
 <!---
 sophiarubens/sophiarubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
