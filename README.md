@@ -1,8 +1,8 @@
-working on: 21-cm intensity mapping, CHORD systematics
+studying: 21-cm intensity mapping, CHORD systematics
 
 these days: Python, Mathematica
 
-historically: C, Fortran, MATLAB
+previously: C, Fortran, MATLAB
 
 <!---
 sophiarubens/sophiarubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
