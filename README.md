@@ -1,4 +1,4 @@
-studying: 21-cm intensity mapping, CHORD systematics
+working on: systematics-aware cosmological forecasting for upcoming CHORD 21 cm cross-correlations
 
 these days: Python, Mathematica
 
