@@ -1,4 +1,4 @@
-working on: systematics-aware cosmological forecasting for upcoming CHORD 21 cm cross-correlations
+working on: systematics-aware cosmological forecasting, CHORD beam synergies
 
 these days: Python, Mathematica
 
