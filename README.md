@@ -1,8 +1,4 @@
-working on: systematics-aware cosmological forecasting, CHORD beam synergies
-
-these days: Python, Mathematica
-
-previously: C, Fortran, MATLAB
+currently: systematics-aware forecasting for CHORD 21 cm intensity mapping, CHORD beam inference
 
 <!---
 sophiarubens/sophiarubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
