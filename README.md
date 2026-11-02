@@ -1,4 +1,4 @@
-currently: systematics-aware forecasting for CHORD 21 cm intensity mapping, CHORD beam inference
+Helping improve CHORD's late-universe 21 cm intensity mapping prospects by measuring and modelling its beam and crunching pathfinder data 
 
 <!---
 sophiarubens/sophiarubens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
